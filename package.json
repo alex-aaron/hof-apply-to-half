@@ -2,7 +2,8 @@
   "dependencies": {
     "chai": "^4.3.6",
     "mocha": "^10.0.0",
-    "sinon": "^14.0.1"
+    "sinon": "^14.0.1",
+    "test-console": "^2.0.0"
   },
   "name": "hof-apply-to-half",
   "description": "",
@@ -11,7 +12,6 @@
   "directories": {
     "test": "test"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "mocha"
   },
