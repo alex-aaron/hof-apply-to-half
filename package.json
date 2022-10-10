@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "sinon": "^14.0.1"
+  },
+  "name": "hof-apply-to-half",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-aaron/hof-apply-to-half.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-aaron/hof-apply-to-half/issues"
+  },
+  "homepage": "https://github.com/alex-aaron/hof-apply-to-half#readme"
+}
